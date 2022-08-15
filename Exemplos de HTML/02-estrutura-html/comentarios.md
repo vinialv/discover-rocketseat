@@ -1,0 +1,58 @@
+# Seções comuns em documentos HTML
+
+* Cabeçalho <header>
+* Navegação <nav>
+* Conteúdo principal <main>
+* Barra lateral <aside>
+* Rodapé <footer>
+
+# Detalhes de cada seção
+
+---
+
+# Cabeçalho <header>
+
+* O cabeçalho do nosso site, o local onde geralmente fica a logo e o menu.
+
+# Navegação <nav>
+
+* A navegação do site vai oferecer links para seções do site, o nosso menu. costuma ficar dentro da header, porém pode ficar em outros lugares, como em uma parte lateral, ou na parte de baixo.
+
+# Conteúdo principal <main>
+
+* A parte do site aonde vai o conteúdo principal, no caso de um blog, teremos vários artigos, vários posts.
+
+# Conteúdo relacionado <aside>
+
+* O conteúdo relacionado é algo que seja relacionado levemente ao nosso conteúdo principal, porém não tanto para ficar lá.
+
+# Rodapé <footer>
+
+* Onde ficam as informações da parte de baixo da página.
+
+#Exemplo básico de como ficaria um HTML semântico:
+
+```html
+<body>
+    <header>
+        logomarca
+
+        <nav>
+            <ul>
+                <li>item</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        conteúdo principal
+    </main>
+
+    <aside>
+        parte lateral
+    </aside>
+
+    <footer>rodapé</footer>
+
+</body>
+```
