@@ -8,8 +8,6 @@
 
 # Detalhes de cada seção
 
----
-
 # Cabeçalho <header>
 
 * O cabeçalho do nosso site, o local onde geralmente fica a logo e o menu.
