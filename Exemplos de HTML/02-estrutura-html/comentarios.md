@@ -1,13 +1,5 @@
 # Seções comuns em documentos HTML
 
-* Cabeçalho ```<header>```
-* Navegação ```<nav>```
-* Conteúdo principal ```<main>```
-* Barra lateral ```<aside>```
-* Rodapé ```<footer>```
-
-# Detalhes de cada seção
-
 ## Cabeçalho ```<header>```
 
 * O cabeçalho do nosso site, o local onde geralmente fica a logo e o menu.
